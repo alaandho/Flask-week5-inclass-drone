@@ -1,0 +1,1 @@
+web: gunicorn done_inventory:app --preload --timeout 60
